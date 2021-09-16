@@ -1,0 +1,2 @@
+# GoGinMyBlog
+Golang Gin blog
