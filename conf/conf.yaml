@@ -1,0 +1,25 @@
+signup_enabled: true
+qiniu_accesskey:
+qiniu_secretkey:
+qiniu_fileserver:
+qiniu_bucket:
+github_clientid: 438352613f699c4cdf84
+github_clientsecret: 7eab514afa3a423dfcabaa086fa09896c91a435c
+github_authurl: https://github.com/login/oauth/authorize?client_id=%s&scope=user:email&state=%s
+# 与github配置的回调地址一致
+github_redirecturl: http://localhost:8090/oauth2callback
+github_tokenurl: https://github.com/login/oauth/access_token
+github_scope:
+smtp_username:
+smtp_password:
+smtp_host:
+session_secret: blog
+domain: 127.0.0.1:8090
+public: static
+addr: :8090
+backup_key:
+dsn: blog.db?_loc=Asia/Shanghai
+#dsn: root:mysql@/blog?charset=utf8&parseTime=True&loc=Asia/Shanghai
+notify_emails:
+page_size: 5
+smms_fileserver: https://sm.ms/api/upload
