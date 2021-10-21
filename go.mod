@@ -15,7 +15,7 @@ require (
 	github.com/gorilla/feeds v1.1.1
 	github.com/jinzhu/gorm v1.9.16
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
-	github.com/microcosm-cc/bluemonday v1.0.15
+	github.com/microcosm-cc/bluemonday v1.0.16
 	github.com/pkg/errors v0.9.1
 	github.com/qiniu/go-sdk/v7 v7.9.8
 	github.com/russross/blackfriday v2.0.0+incompatible
